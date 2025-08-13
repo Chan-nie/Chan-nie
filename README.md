@@ -16,13 +16,6 @@
 
 ---
 
-### ✨ My socials ✨  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sinchan-suvarna)  
-[![Khan Academy](https://img.shields.io/badge/Khan%20Academy-14BF96?style=flat&logo=khanacademy&logoColor=white)](https://www.khanacademy.org/profile/kaid_311111136670840237432246/projects)  
-
----
-
 *Thanks for dropping by my profile!* 💫  
 
 </div>
