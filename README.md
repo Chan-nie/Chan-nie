@@ -1,21 +1,51 @@
-<div align="center">
+<!--
+Profile README for: channie
+Tip: Keep it simple. Update links later.
+-->
 
-# Hey, I’m Sinchan 🌸  
+<h1 align="center">Hi, I’m Channie ❄️</h1>
+<p align="center">
+  B.Tech CSE • Student • Building one project at a time
+</p>
 
-🎓 2nd year CSE student  
-💻 Into web development & building fun projects  
-✨ Loves art, playing electronic keyboard, anime & K-pop  
+<p align="center">
+  <a href="https://github.com/Chan-nie">GitHub</a> •
+  <a href="https://www.linkedin.com/in/sinchan-suvarna/">LinkedIn</a> •
+  <a href="mailto:sinchan17suvarna@gmail.com">Email</a> •
+  <a href="https://chan-nie.github.io/portfolio/">Portfolio</a>
+</p>
 
 ---
 
-🌱 **Currently learning:**  
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+### ✦ About me
+- 🎓 Second-year CSE student  
+- 💻 Currently learning: **C++ OOP**, **DSA**, and **Web Dev**
+- ✍️ I like building clean, simple projects with good UI
 
 ---
 
-*Thanks for dropping by my profile!* 💫  
+### ✦ Tech stack (so far)
+- **Languages:** C, C++, (add: Python / JS if you use)
+- **Tools:** Git, GitHub, VS Code
+- **Learning:** DSA, OOP, HTML/CSS/JS
 
-</div>
+---
+
+### ✦ What I’m working on
+- ✅ Strengthening DSA + problem solving
+- ✅ Projects for portfolio
+- ✅ Consistency > motivation
+
+---
+
+### ✦ Featured projects
+<ul>
+  <li><a href="https://www.linkedin.com/posts/sinchan-suvarna_arduinoprojects-mahedubai-teamcollab-activity-7330520470733094913-eZVE?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEYwdNEBhLdNX4XyeLeTF5xXmlI2381_ryc">Eye-Recognition Access System</a></li> - 2nd sem Team Project
+  <li><a href="https://github.com/Chan-nie/space-mission-analysis">Space Mission Analysis</a></li> - 11th grade Team project
+</ul>
+
+---
+
+<p align="center">
+  <sub>❄️ “Life is good when there are no bugs”</sub>
+</p>
