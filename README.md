@@ -25,9 +25,9 @@ Tip: Keep it simple. Update links later.
 ---
 
 ### ✦ Tech stack (so far)
-- **Languages:** C, C++, (add: Python / JS if you use)
+- **Languages:** Python, HTML, CSS
 - **Tools:** Git, GitHub, VS Code
-- **Learning:** DSA, OOP, HTML/CSS/JS
+- **Learning:** DSA, OOP, C, C++, JS
 
 ---
 
