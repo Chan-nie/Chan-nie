@@ -14,13 +14,15 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: Platane/snk@v3
+      - name: Generate Snake
+        uses: Platane/snk@v3
         with:
           github_user_name: chan-nie
           outputs: |
-  dist/github-contribution-grid-snake.svg?color_snake=92A8D1&color_dots=#ebedf0,#F7CAC9,#F3B8C5,#D4C2E8,#92A8D1
+            dist/github-contribution-grid-snake.svg?color_snake=%2392A8D1&color_dots=%23ebedf0,%23F7CAC9,%23F3C4C8,%23C8D4EA,%2392A8D1
 
-      - uses: crazy-max/ghaction-github-pages@v4
+      - name: Push Snake
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
