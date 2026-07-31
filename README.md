@@ -155,8 +155,7 @@ Personal portfolio built from scratch and hosted on GitHub Pages.
 
 ## 🐍 Contribution Snake
 
-<img src="outputs: |
-  dist/github-contribution-grid-snake.svg?color_snake=92A8D1&color_dots=#ebedf0,#F7CAC9,#F3B8C5,#D4C2E8,#92A8D1"/>
+<img src="https://raw.githubusercontent.com/chan-nie/chan-nie/output/github-contribution-grid-snake.svg"/>
 
 </div>
 
